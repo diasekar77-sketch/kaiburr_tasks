@@ -214,26 +214,12 @@ weighted avg       0.87      0.87      0.87      3600
 ```
 
 ## Screenshots
+![WhatsApp Image 2025-10-20 at 20 18 28_2d0d38a6](https://github.com/user-attachments/assets/2b76254c-7bd6-4481-8acc-7b423df3c3a1)
 
-### Data Distribution
-![Data Distribution](screenshots/data-distribution.png)
-*Distribution of complaint categories and text length with dataset statistics*
-
-### Model Performance
-![Model Performance](screenshots/model-performance.png)
-*Comparison of different model performances with accuracy metrics*
-
-### Confusion Matrix
-![Confusion Matrix](screenshots/confusion-matrix.png)
-*Detailed classification results for each model with precision/recall metrics*
-
-### Feature Importance
-![Feature Importance](screenshots/feature-importance.png)
-*Most important features for classification with feature selection results*
-
-### Word Cloud
-![Word Cloud](screenshots/word-cloud.png)
-*Most frequent words in complaints with text analysis visualization*
+![WhatsApp Image 2025-10-20 at 20 18 51_fc94d645](https://github.com/user-attachments/assets/58dbef3a-3169-4a8a-8d4c-020a4137a1fd)
+![WhatsApp Image 2025-10-20 at 20 19 05_84f94522](https://github.com/user-attachments/assets/1b844596-3d7b-433a-83a4-e6286c7f8fb6)
+![WhatsApp Image 2025-10-20 at 20 19 19_882d338c](https://github.com/user-attachments/assets/c5f0fdad-89a1-4a08-b1f3-6f00c93475ba)
+![WhatsApp Image 2025-10-20 at 19 45 33_5089b6f3](https://github.com/user-attachments/assets/8074efe3-5da3-4d15-98f0-dc3d0f92c7ee)
 
 ## Advanced Features
 
